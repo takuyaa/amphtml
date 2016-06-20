@@ -37,7 +37,7 @@
     "chai-as-promised": "5.2.0",
     "cssnano": "3.3.2",
     "del": "2.2.0",
-    "eslint": "1.10.3",
+    "eslint": "2.13.1",
     "eslint-plugin-google-camelcase": "0.0.2",
     "express": "4.13.4",
     "formidable": "1.0.17",
