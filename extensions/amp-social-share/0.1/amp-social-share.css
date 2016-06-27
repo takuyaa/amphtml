@@ -50,6 +50,11 @@ amp-social-share[type=gplus] {
   background-color: #dc4e41;
 }
 
+/* Hatena Bookmark Styling */
+amp-social-share[type=hatenabookmark] {
+  background-color: #00a4de;
+}
+
 /* Email Styling */
 amp-social-share[type=email] {
   background-color: #000000;
