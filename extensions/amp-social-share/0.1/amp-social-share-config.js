@@ -60,10 +60,7 @@ const BUILTINS = {
     },
   },
   hatenabookmark: {
-    shareEndpoint: 'http://b.hatena.ne.jp/add',
-    defaultParams: {
-      url: 'CANONICAL_URL',
-    },
+    shareEndpoint: 'http://b.hatena.ne.jp/entry/CANONICAL_URL',
   },
   email: {
     shareEndpoint: 'mailto:',
